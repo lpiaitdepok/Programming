@@ -11,4 +11,6 @@
 ## J.620100.013.01 Menerapkan Pemecahan Permasalahan Menjadi Subrutin
 * algoritma, flowchart
 * logic and looping
-* function
+* (user defined) function
+* library
+## J.620100.014.01 Menerapkan Metode dan Praktik Penggunaan Kembali (Reusable) Subrutin-subrutin
